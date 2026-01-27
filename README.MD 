@@ -1,0 +1,36 @@
+# 🍔 Fast-Food – Site Web Restaurant
+
+Fast-Food est un site web de restaurant de style “fast-food”.  
+Ce projet a été développé pour démontrer mes compétences en **HTML**, **CSS** et **JavaScript**, ainsi que mes capacités à créer une interface utilisateur claire et responsive.
+
+## 📌 Description
+Le site présente différentes sections comme :
+- Page d’accueil
+- Menu des plats
+- Photos
+- Contact
+- Sections interactives avec JavaScript
+
+Ce projet front-end montre une structure bien organisée et un design adapté à différents appareils.
+
+## 🛠️ Technologies utilisées
+- HTML5  
+- CSS3  
+- JavaScript (vanilla)  
+- Design responsive
+
+## 🚀 Live Demo
+Voici le lien vers la version en ligne du site :
+
+🔗 https://omar-zaafouri.github.io/Fast-Food/
+
+*(Si le lien ne s’affiche pas encore, vois la section Déploiement ci-dessous)*
+
+## 🗂️ Structure du projet
+```bash
+Fast-Food/
+├── css/
+├── js/
+├── images/
+├── index.html
+└── autres pages
